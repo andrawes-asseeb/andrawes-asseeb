@@ -17,11 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/andrawes-asseeb/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/andrawes-asseeb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:andrawes12asseeb@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
   </a>
 </p>
 
@@ -52,23 +55,6 @@ and user-friendly web applications.
 - Next.js
 - Tailwind CSS
 - Git & GitHub
-
-<h2 align="left">🌐 Connect With Me</h2>
-
-<p align="left">
-  <a href="https://github.com/andrawes-asseeb/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/andrawes-asseeb/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:andrawes12asseeb@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
-  </a>
-</p>
-
 
 
 <h2 align="left">🛠️ Languages and Tools</h2>
