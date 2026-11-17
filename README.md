@@ -23,12 +23,6 @@ and user-friendly web applications.
 - Tailwind CSS
 - Git & GitHub
 
-## 📫 Connect With Me
-
-- GitHub: [My GitHub](https://github.com/andrawes-asseeb/)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/andrawes-asseeb/)
-
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
