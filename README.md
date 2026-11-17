@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img
     src="andrawes-hero-section.png"
@@ -24,11 +23,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:andrawes12asseeb@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 
 # Hi, I'm Andrawes 👋
